@@ -1,0 +1,8 @@
+DEBUG 2021-01-30 11:27:21 font_manager.py: 1436] Using fontManager instance from /home/zengwb/.cache/matplotlib/fontlist-v330.json
+DEBUG 2021-01-30 11:27:21 pyplot.py: 290] Loaded backend module://backend_interagg version unknown.
+INFO 2021-01-30 11:27:22 FaceDetModelLoader.py: 19] Start to analyze the face detection model, model path: ./models, model category: face_detection，model name: face_detection_1.0
+INFO 2021-01-30 11:27:22 BaseModelLoader.py: 36] Successfully parsed the model configuration file meta.json!
+INFO 2021-01-30 11:27:22 FaceDetModelLoader.py: 37] Successfully loaded the face detection model!
+INFO 2021-01-30 11:27:22 FaceAlignModelLoader.py: 18] Start to analyze the face landmark model, model path: ./models, model category: face_alignment，model name: face_alignment_1.0
+INFO 2021-01-30 11:27:22 BaseModelLoader.py: 36] Successfully parsed the model configuration file meta.json!
+INFO 2021-01-30 11:27:24 FaceAlignModelLoader.py: 30] Successfully loaded the face landmark model!
